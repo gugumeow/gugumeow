@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 鼓鼓喵</title>
-    <link>https://gugumeow.github.io/tags/</link>
+    <link>https://gugumeow.github.io/gugumeow/tags/</link>
     <description>Recent content in Tags on 鼓鼓喵</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 14 Sep 2010 10:00:00 +0800</lastBuildDate><atom:link href="https://gugumeow.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Sep 2010 10:00:00 +0800</lastBuildDate><atom:link href="https://gugumeow.github.io/gugumeow/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New</title>
-      <link>https://gugumeow.github.io/tags/new/</link>
+      <link>https://gugumeow.github.io/gugumeow/tags/new/</link>
       <pubDate>Tue, 14 Sep 2010 10:00:00 +0800</pubDate>
       
-      <guid>https://gugumeow.github.io/tags/new/</guid>
+      <guid>https://gugumeow.github.io/gugumeow/tags/new/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photos</title>
-      <link>https://gugumeow.github.io/tags/photos/</link>
+      <link>https://gugumeow.github.io/gugumeow/tags/photos/</link>
       <pubDate>Tue, 14 Sep 2010 10:00:00 +0800</pubDate>
       
-      <guid>https://gugumeow.github.io/tags/photos/</guid>
+      <guid>https://gugumeow.github.io/gugumeow/tags/photos/</guid>
       <description></description>
     </item>
     
